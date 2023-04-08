@@ -1,1 +1,2 @@
-Khalid
+Khalid Alharbi
+Learning Git
